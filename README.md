@@ -12,11 +12,11 @@ Exploring the Impacts of Computing is one of the five “Big Ideas” of the AP 
 
 ### Learning Objectives
 
-Students will correctly define the following terms: digital divide, computing bias, crowdsourcing, phishing, malware, rogue access point, DDoS, encryption, decryption
-Students will identify and explain ethical considerations related to the use of technology
-Students will identify and explain examples of algorithmic bias in computing contexts
-Students will identify and explain potential benefits and harms of computing technologies
-Students will analyze their own values and beliefs as users and creators of technology in order to clearly articulate their personal perspective on the impacts of computing
+*Students will correctly define the following terms: digital divide, computing bias, crowdsourcing, phishing, malware, rogue access point, DDoS, encryption, decryption
+*Students will identify and explain ethical considerations related to the use of technology
+*Students will identify and explain examples of algorithmic bias in computing contexts
+*Students will identify and explain potential benefits and harms of computing technologies
+*Students will analyze their own values and beliefs as users and creators of technology in order to clearly articulate their personal perspective on the impacts of computing
 
 
 ### Learning Activities
@@ -30,11 +30,11 @@ The first 7 block days of this unit will follow a standard structure. Each day w
 Students will be asked to find a story from a credible publication (print or online) that relates to the central topics covered in this unit. Topics may include: new computing innovations, legal or legislative issues related to tech and computing, big data collection/application, ethical issues related to computing, and online safety. The teacher will have a collection of articles available for students who have difficulty finding a source.
 
 Students will then complete a journal entry answering the following questions about their story:
-What is the issue/technology described?
-Who is impacted? (Who is this tech designed for? Who benefits from this tech? Are there any potential harms?)
-Where is the action occurring? (Online? In real life? In particular communities?)
-When is this taking place? (Are the impacts immediate, have they already happened, or will they occur in the future?)
-Why is this important? (Why should we pay attention to this issue?)
+1. What is the issue/technology described?
+2. Who is impacted? (Who is this tech designed for? Who benefits from this tech? Are there any potential harms?)
+3. Where is the action occurring? (Online? In real life? In particular communities?)
+4. When is this taking place? (Are the impacts immediate, have they already happened, or will they occur in the future?)
+5. Why is this important? (Why should we pay attention to this issue?)
 
 #### Direct Instruction
 The direct instruction portion of each lesson will involve lecture, readings, and small group discussions. The instructor will present information on foundational concepts related to ethical computing and impacts of computing on society. Lectures will focus on engaging, real-world examples that illustrate the interplay between computing and society. Examples of positive and negative impacts of computing will be considered. Informal, small group discussions will punctuate lectures, providing opportunities for students to reflect on central themes and clarify their understanding with peer support. Reading selections will tie-in and extend the central themes of the lessons.
