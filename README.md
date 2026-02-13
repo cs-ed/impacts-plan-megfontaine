@@ -22,7 +22,7 @@ Exploring the Impacts of Computing is one of the five “Big Ideas” of the AP 
 ### Learning Activities
 
 #### Length of Unit
-9 Block Periods
+9 block periods
 #### Lesson Structure
 The first 7 block days of this unit will follow a standard structure. Each day will begin with a current events journal activity, followed by teacher-lead direct instruction, and conclude with an independent homework assignment. The last 2 block periods will be dedicated to a unit review project. The unit will conclude with a project and a short multiple choice exam.
 
