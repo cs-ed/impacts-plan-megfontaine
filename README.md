@@ -12,11 +12,11 @@ Exploring the Impacts of Computing is one of the five “Big Ideas” of the AP 
 
 ### Learning Objectives
 
-*Students will correctly define the following terms: digital divide, computing bias, crowdsourcing, phishing, malware, rogue access point, DDoS, encryption, decryption
-*Students will identify and explain ethical considerations related to the use of technology
-*Students will identify and explain examples of algorithmic bias in computing contexts
-*Students will identify and explain potential benefits and harms of computing technologies
-*Students will analyze their own values and beliefs as users and creators of technology in order to clearly articulate their personal perspective on the impacts of computing
+* Students will correctly define the following terms: digital divide, computing bias, crowdsourcing, phishing, malware, rogue access point, DDoS, encryption, decryption
+* Students will identify and explain ethical considerations related to the use of technology
+* Students will identify and explain examples of algorithmic bias in computing contexts
+* Students will identify and explain potential benefits and harms of computing technologies
+* Students will analyze their own values and beliefs as users and creators of technology in order to clearly articulate their personal perspective on the impacts of computing
 
 
 ### Learning Activities
